@@ -1,0 +1,23 @@
+[{
+    "name": "Ivory Search – WordPress Search Plugin",
+    "slug": "add-search-to-menu",
+    "required": false,
+    "force_activation": false
+  }, {
+    "name": "Royal Elementor Addons and Templates",
+    "slug": "royal-elementor-addons",
+    "required": false,
+    "force_activation": false
+  }, {
+    "name": "WooCommerce",
+    "slug": "woocommerce",
+    "required": false,
+    "force_activation": false
+  }, {
+    "name": "Elementor",
+    "slug": "elementor",
+    "required": false,
+    "force_activation": false
+  }
+  ]
+  
